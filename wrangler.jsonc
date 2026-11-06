@@ -26,7 +26,7 @@
 		{
 			// Stores OAuth grants and client registrations (tokens are hashed, props encrypted).
 			// No id needed: Wrangler provisions it on first deploy and reuses it afterwards.
-			"binding": "OAUTH_KV"
+			"binding": "OAUTH_KV", "id": "7c52bb36fed846179e3ac5ccc9e02cff"
 		}
 	],
 	"ratelimits": [
